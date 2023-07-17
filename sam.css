@@ -1,0 +1,29 @@
+p {
+    color: blue;
+    font-size: large;
+    line-height: normal;
+}
+h1 {
+    color: red;
+    font-size: x-large;
+    line-height: normal;
+    align-self: hover;
+}
+h2 {
+    color: red;
+    font-size: x-large;
+    line-height: normal;
+}
+h3 {
+    color: red;
+    font-size: x-large;
+    line-height: normal;
+    font-weight: bold;
+}
+a { 
+    color: rgb(255, 0, 191);
+    text-decoration: rgb(17, 0, 252);
+}
+a:hover n{
+    text-decoration: underline;
+}
